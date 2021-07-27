@@ -1,7 +1,8 @@
 import java.io.*;
-class  sample
+class  Sample
 {
-
+   int x;
+   int y;
 
 
 }
